@@ -13,9 +13,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 instructions for setting up a local environment:
 
 first yow need to install the Linux kernel update package follow this link for downloading 
-and installing instructions:'https://docs.microsoft.com/he-il/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package' 
+and installing instructions: https://docs.microsoft.com/he-il/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
 
-then, download and install docker desktop from this link:https://docs.docker.com/get-docker/
+then, download and install docker desktop from this link: https://docs.docker.com/get-docker/
 
 now open the terminal in the Anythink-Market-mcgsf folder and run the 'docker-compose up'
 commend and wait for the continer to up.
