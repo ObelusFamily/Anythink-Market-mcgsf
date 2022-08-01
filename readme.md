@@ -10,4 +10,14 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+instructions for setting up a local environment:
+
+first yow need to install the Linux kernel update package follow this link for downloading 
+and installing instructions:'https://docs.microsoft.com/he-il/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package' 
+
+then, download and install docker desktop from this link:https://docs.docker.com/get-docker/
+
+now open the terminal in the Anythink-Market-mcgsf folder and run the 'docker-compose up'
+commend and wait for the continer to up.
+
+you'r all set up!
